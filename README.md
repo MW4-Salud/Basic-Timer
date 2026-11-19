@@ -23,7 +23,7 @@ A small desktop timer and stopwatch written in Python with Tkinter. The time is 
 ### Run it
 
 ```
-git clone https://github.com/saludmatthew63-max/Basic-Timer.git
+git clone https://github.com/MW4-Salud/Basic-Timer.git
 cd Basic-Timer
 python electron_timer.py
 ```
